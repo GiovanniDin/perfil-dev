@@ -3,3 +3,4 @@ Curso: Engenharia de Software
 Linguagens favoritas: Java e Python
 Objetivo profissional: Ser um grande empresário
 hobbies: Programar, jogar videogame, trabalhar e assitir futebol
+GitHub: https://github.com/GiovanniDin/perfil-dev.git
